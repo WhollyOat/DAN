@@ -27,7 +27,7 @@ author = {Jianghao Xiong and Xiaohua Xie and Jian-Huang Lai},
 
 ```
 **Acknowledgment:**
-This project is based on MITML[1] ([official code](https://github.com/VCM-project233/MITML).
+This code is based on MITML ([official code](https://github.com/VCM-project233/MITML)).
 ```
 @inproceedings{lin2022learning,
  title={Learning Modal-Invariant and Temporal-Memory for Video-Based Visible-Infrared Person Re-Identification},
