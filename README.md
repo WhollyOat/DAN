@@ -13,7 +13,7 @@ To access the video-based visible-infrared group re-id dataset VVIG, please send
 
 **Citation:**
 Please cite the following paper if you use this repository in your research work.
-```sh
+```
 
 @article{XIONG2026112079,
 title = {Dual-level aggregation network for video-based visible-infrared group re-identification},
