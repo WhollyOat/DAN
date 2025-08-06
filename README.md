@@ -21,7 +21,6 @@ journal = {Pattern Recognition},
 volume = {170},
 pages = {112079},
 year = {2026},
-doi = {https://doi.org/10.1016/j.patcog.2025.112079},
 author = {Jianghao Xiong and Xiaohua Xie and Jian-Huang Lai},
 }
 
