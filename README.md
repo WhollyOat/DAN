@@ -26,3 +26,14 @@ author = {Jianghao Xiong and Xiaohua Xie and Jian-Huang Lai},
 }
 
 ```
+**Acknowledgment:**
+This project is based on MITML[1] ([official code](https://github.com/VCM-project233/MITML).
+```
+@inproceedings{lin2022learning,
+ title={Learning Modal-Invariant and Temporal-Memory for Video-Based Visible-Infrared Person Re-Identification},
+ author={Lin, Xinyu and Li, Jinxing and Ma, Zeyu and Li, Huafeng and Li, Shuang and Xu, Kaixiong and Lu, Guangming and Zhang, David},
+ booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+ pages={20973--20982},
+ year={2022}
+}
+```
