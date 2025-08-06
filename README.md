@@ -4,7 +4,7 @@ This is the official repo of our PR paper 'Dual-level Aggregation Network For Vi
 
 **Note:**
 
-Note: To access the video-based visible-infrared group re-id dataset VVIG, please send a signed [agreement](Agreement.pdf) to silverpride@foxmail.com, and we will send you the download link.
+To access the video-based visible-infrared group re-id dataset VVIG, please send a signed [agreement](Agreement.pdf) to silverpride@foxmail.com, and we will send you the download link.
 
 **Citation:**
 Please cite the following paper if you use this repository in your research work.
