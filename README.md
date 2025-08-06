@@ -6,6 +6,7 @@ This is the official repo of our PR paper 'Dual-level Aggregation Network For Vi
 Train DAN by 
 ```python
 python train.py --gpu your_gpu_id --root your_dataset_directory
+```
 
 **Dataset:**
 To access the video-based visible-infrared group re-id dataset VVIG, please send a signed [agreement](Agreement.pdf) to silverpride@foxmail.com, and we will send you the download link.
